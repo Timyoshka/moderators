@@ -13,3 +13,7 @@
 ## David
 - Discord user name: `! Davidush#9269`
 - UnUniFi address : `ununifi1w6nv3df69ug9502lzqh62sqp73mzlgyvjx90ws`
+
+## TImur
+- Discord user name: `tt#0595`
+- UnUniFi address : `ununifi1fsg8xkl0vyhz2ha2kjzzk9ardpa27uczx5kws4`
